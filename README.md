@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,github&perline=14" />
   <br><br>
   <!-- Custom icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" title="Excel" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" title="Excel" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" title="Power BI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" title="Tableau" />
 </p>
