@@ -18,11 +18,11 @@
 
 ## What i'm doing
 <!--Intro start-->
--👨‍🎓 I’m currently in the final semesters of my undergraduate degree in Data Processing.
--👯 I’m open to collaborating on projects like Onner, Teampj, and Droppi – or any cool data-driven idea!
--🌱 I’m currently sharpening my skills in C#, .NET, and SQL, with a growing interest in Data Analytics and Back-end systems.
--📫 How to reach me: vuonghcnps42128.com
--😎 I’m passionate about becoming a Data & Back-end Specialist, especially in building systems that turn data into insights.
+👨‍🎓 I’m currently in the final semesters of my undergraduate degree in Data Processing.
+👯 I’m open to collaborating on projects like Onner, Teampj, and Droppi – or any cool data-driven idea!
+🌱 I’m currently sharpening my skills in C#, .NET, and SQL, with a growing interest in Data Analytics and Back-end systems.
+📫 How to reach me: vuonghcnps42128.com
+😎 I’m passionate about becoming a Data & Back-end Specialist, especially in building systems that turn data into insights.
 <!--Intro end-->
 
 <br/>
