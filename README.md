@@ -22,7 +22,7 @@
 
 -👯 I’m looking forward to collaborating on exciting projects involving data processing, data visualization, or backend development.
 
--🌱 I’m currently sharpening my skills in C#, .NET, and SQL, with a growing interest in Data Analytics and Back-end systems.
+-🌱 I’m currently developing my data processing skills using tools like Excel, SQL, Power BI, Tableau, and Python for insightful analytics and visualization.
 
 -📫 How to reach me: vuonghcnps42128@gmail.com
 
