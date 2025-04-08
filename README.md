@@ -26,7 +26,7 @@
 
 -📫 How to reach me: vuonghcnps42128@gmail.com
 
--😎 I’m passionate about becoming a Data & Back-end Specialist, especially in building systems that turn data into insights.
+-😎 I’m passionate about becoming a Data Analysts especially in building systems that turn data into insights.
 <!--Intro end-->
 
 <br/>
