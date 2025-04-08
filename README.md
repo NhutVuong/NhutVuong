@@ -43,11 +43,14 @@
 
 <h3>Tools & Platforms</h3>
 <p align="left">
-  <!-- Skillicons only supports certain icons -->
   <img src="https://skillicons.dev/icons?i=vscode,github&perline=14" />
   <br><br>
-  🧰 <strong>Other Tools:</strong> Excel • Power BI • Tableau
+  <!-- Custom icons -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" title="Excel" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Power BI" width="40" title="Power BI" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968707.png" alt="Tableau" width="40" title="Tableau" />
 </p>
+
 
 
 
