@@ -12,17 +12,17 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of programming</h2></summary>
+    <summary><h2 style="display: inline-block">Confusion is part of programming — and learning!</h2></summary>
   </ul>
 </div>
 
 ## What i'm doing
 <!--Intro start-->
-- 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
-- 👯 I’m looking to collaborate on onner, teampj, Droppi.
-- 🌱 I’m currently learning C#, .NET, SQL.
-- 📫 How to reach me: vuonghcnps42128.com
-- ​😎 I’m passionate about specializing as a back-end developer.
+-👨‍🎓 I’m currently in the final semesters of my undergraduate degree in Data Processing.
+-👯 I’m open to collaborating on projects like Onner, Teampj, and Droppi – or any cool data-driven idea!
+-🌱 I’m currently sharpening my skills in C#, .NET, and SQL, with a growing interest in Data Analytics and Back-end systems.
+-📫 How to reach me: vuonghcnps42128.com
+-😎 I’m passionate about becoming a Data & Back-end Specialist, especially in building systems that turn data into insights.
 <!--Intro end-->
 
 <br/>
