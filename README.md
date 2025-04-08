@@ -38,25 +38,17 @@
 
 <h3>Languages</h3>
 <p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,sql&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,sql&perline=14" />
 </p>
 
 <h3>Tools & Platforms</h3>
 <p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau,vscode,github&perline=14" />
-  </a>
+  <!-- Skillicons only supports certain icons -->
+  <img src="https://skillicons.dev/icons?i=vscode,github&perline=14" />
+  <br><br>
+  🧰 <strong>Other Tools:</strong> Excel • Power BI • Tableau
 </p>
 
-<h3>Other Skills</h3>
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,postman&perline=14" />
-  </a>
-</p>
-<br/>
 
 
 
