@@ -20,7 +20,7 @@
 <!--Intro start-->
 -👨‍🎓 I’m currently in the final semesters of my undergraduate degree in Data Processing.
 
--👯 I’m open to collaborating on projects like Onner, Teampj, and Droppi – or any cool data-driven idea!
+-👯 I’m looking forward to collaborating on exciting projects involving data processing, data visualization, or backend development.
 
 -🌱 I’m currently sharpening my skills in C#, .NET, and SQL, with a growing interest in Data Analytics and Back-end systems.
 
