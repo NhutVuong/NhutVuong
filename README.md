@@ -24,7 +24,7 @@
 
 -🌱 I’m currently sharpening my skills in C#, .NET, and SQL, with a growing interest in Data Analytics and Back-end systems.
 
--📫 How to reach me: vuonghcnps42128.com
+-📫 How to reach me: vuonghcnps42128@gmail.com
 
 -😎 I’m passionate about becoming a Data & Back-end Specialist, especially in building systems that turn data into insights.
 <!--Intro end-->
