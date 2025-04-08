@@ -21,7 +21,7 @@
 - 👨‍🎓 I’m currently in the last semesters of my undergraduate degree.
 - 👯 I’m looking to collaborate on onner, teampj, Droppi.
 - 🌱 I’m currently learning C#, .NET, SQL.
-- 📫 How to reach me: Ghreengate@gmail.com
+- 📫 How to reach me: vuonghcnps42128.com
 - ​😎 I’m passionate about specializing as a back-end developer.
 <!--Intro end-->
 
