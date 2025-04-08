@@ -30,30 +30,34 @@
 <!--Intro end-->
 
 <br/>
-  <div id="user-content-toc">
-    <ul align="center">
-      <summary><h2 style="display: inline-block">Languages and tools 👨🏻‍💻</h2></summary>
-    </ul>
-  </div>
-  <h3>Languages</h3>
-    <p align="left">
-      <a href="https://github.com/Lionous">
-        <img src="https://skillicons.dev/icons?i=cs,java,py,ts&perline=14" />
-      </a>
-    </p>
-  <h3>Frameworks, IDEs and Libraries</h3>
-      <p align="left">
-        <a href="https://github.com/Lionous">
-          <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,rider,idea,clion,androidstudio&perline=14" />
-        </a>
-      </p>
-  <h3>Others</h3>
-      <p align="left">
-        <a href="https://github.com/Lionous">
-          <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,sqlite,docker,vscode,git,postman,latex,linux,arch,debian&perline=14" />
-        </a>
-      </p>
-<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Languages and Tools 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<h3>Languages</h3>
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=py,sql&perline=14" />
+  </a>
+</p>
+
+<h3>Tools & Platforms</h3>
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau,vscode,github&perline=14" />
+  </a>
+</p>
+
+<h3>Other Skills</h3>
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,postman&perline=14" />
+  </a>
+</p>
+<br/>
+
 
 
 ## My stats
