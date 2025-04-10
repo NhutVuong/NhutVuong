@@ -37,15 +37,11 @@
   <img src="https://skillicons.dev/icons?i=py,sql&perline=14" />
 </p>
 
+<h3>🧠 Data Processing</h3>
 <p align="left">
-  <!-- Excel -->
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" title="Excel" />
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" title="Python" />
-  <!-- SQL Server -->
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" title="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=py,sql&perline=14" />
 </p>
-
 
 <h3>📊 Data Visualization</h3>
 <p align="left">
