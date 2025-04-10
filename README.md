@@ -41,7 +41,9 @@
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" width="40" title="Excel" />
   <img src="https://skillicons.dev/icons?i=py,sql&perline=14" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" width="40" title="SQL Server" />
 </p>
+
 
 <h3>📊 Data Visualization</h3>
 <p align="left">
