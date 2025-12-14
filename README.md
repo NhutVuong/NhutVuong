@@ -18,7 +18,7 @@
 
 ## What i'm doing
 <!--Intro start-->
-- 👨‍🎓 I’m currently in the final semesters of my college program in Data Processing at FPT Polytechnic.
+- 👨‍🎓 I have graduated from FPT Polytechnic with a major in Data Processing.
 - 👯 I’m looking forward to collaborating on exciting projects involving data processing, data visualization, or backend development.
 - 🌱 I’m currently developing my data processing skills using tools like Excel, SQL, Power BI, Tableau, and Python for insightful analytics and visualization.
 - 📫 How to reach me: vuonghcnps42128@gmail.com
